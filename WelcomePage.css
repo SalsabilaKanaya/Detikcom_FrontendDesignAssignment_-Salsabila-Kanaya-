@@ -449,6 +449,10 @@ body {
   word-wrap: break-word;
 }
 
+.content-card .card-title:hover{
+  color: #007CBD;
+}
+
 .content-card .card-text{
   color: #7A7B7E;
   font-size: 12px;
